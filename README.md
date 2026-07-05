@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Max! 👋</h1>
 
 <p align="center">
-  <em>A short tagline about what you do or what you're passionate about</em>
+  <em>I am 4th year computer science student studying at University of British Columbia. I am passionate in creating interactive and fun application for people to use through software development.  </em>
 </p>
 
 <p align="center">
@@ -12,12 +12,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **[project name]**
-- 🌱 I'm currently learning **[technology/skill]**
-- 👯 I'm looking to collaborate on **[type of project]**
-- 💬 Ask me about **[your expertise]**
-- 📫 How to reach me: **[email or contact method]**
-- ⚡ Fun fact: **[something interesting about you]**
+- 🔭 I'm currently working on 3D stealth game
+- 🌱 I'm currently learning Unreal Engine
+- 📫 How to reach me: huangmax1039@gmail.com
+- ⚡ Fun fact: I am allegic to cats even though I am a cat person :(
 
 ### 🛠️ Tech Stack
 
