@@ -60,8 +60,10 @@ Full-stack expense tracker built with Laravel/Livewire/Alpine/Tailwind — real-
 Static portfolio built with Astro 6 + React 19 islands, shipping only 100KB of gzipped JS. Scored 96/100 on Lighthouse Performance and 100/100 on Best Practices & SEO.
 
 
-![Coding gif](https://64.media.tumblr.com/5f5c531eb18fe7bb5c3e9da8126f157e/7b81e4cfa8cb4dbf-e1/s500x750/e07d618fc0aedfdcb41e4852b2c1f2c725ac1fb0.gif)
 
+<p align="center">
+  <img src="[URL_TO_GIF](https://64.media.tumblr.com/5f5c531eb18fe7bb5c3e9da8126f157e/7b81e4cfa8cb4dbf-e1/s500x750/e07d618fc0aedfdcb41e4852b2c1f2c725ac1fb0.gif)" alt="description" width="400"/>
+</p>
 ### 🌐 Connect with Me
 
 <p align="center">
