@@ -62,7 +62,7 @@ Static portfolio built with Astro 6 + React 19 islands, shipping only 100KB of g
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQyYml3ZmtxZXluOXZyM2h0ZGlkeHM1OGU2ZTV2Ynh1MGQ2Z213dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gpf6xptPSEe02WKjKo/giphy.gif" alt="description" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQyYml3ZmtxZXluOXZyM2h0ZGlkeHM1OGU2ZTV2Ynh1MGQ2Z213dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gpf6xptPSEe02WKjKo/giphy.gif" alt="description" width="800"/>
 </p>
 ### 🌐 Connect with Me
 
