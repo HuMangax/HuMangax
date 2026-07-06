@@ -62,7 +62,7 @@ Static portfolio built with Astro 6 + React 19 islands, shipping only 100KB of g
 
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/5f5c531eb18fe7bb5c3e9da8126f157e/7b81e4cfa8cb4dbf-e1/s500x750/e07d618fc0aedfdcb41e4852b2c1f2c725ac1fb0.gif" alt="description" width="400"/>
+  <img src="https://giphy.com/gifs/dance-brook-a4x-Gpf6xptPSEe02WKjKo" alt="description" width="400"/>
 </p>
 ### 🌐 Connect with Me
 
