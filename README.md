@@ -12,8 +12,6 @@
 
 ### 🚀 About Me
 
-### 🚀 About Me
-
 - 🎓 Studying **Computer Science (B.Sc.)** at the **University of British Columbia** — expected May 2028
 - 💼 Incoming **Software QA Engineer Co-op** at **Incognito Software Systems** (Sep 2026 – Apr 2027)
 - 🔍 Previously a **Software Engineer Intern** at **DataVisor**, working on test automation, API coverage, and Kubernetes-based load testing
